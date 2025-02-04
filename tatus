@@ -1,0 +1,142 @@
+[33mcommit 172d3cdf089a6bb3102f40d178ca04d1dae56f09[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mgame_logic[m[33m)[m
+Author: Ethan Curran <l00181476@atu.ie>
+Date:   Tue Feb 4 16:35:27 2025 +0000
+
+    Gamblers Ruins Commit 1
+
+[33mcommit f7d91ee78f6c0c6a4d77dc2fd1312185139ba092[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: =DocMilo <docmilo@users.noreply.github.com>
+Date:   Sun Mar 3 16:44:58 2024 +0000
+
+    add new demos for week 8
+
+[33mcommit 4c9f9d7e8c20365ac3cbe68e9531ef97b32e7328[m
+Author: =DocMilo <docmilo@users.noreply.github.com>
+Date:   Tue Feb 27 11:29:05 2024 +0000
+
+    update week 7 practical exercises
+
+[33mcommit 279e734986cd68aa5e1599d8328e262c5a20a51b[m
+Author: =DocMilo <docmilo@users.noreply.github.com>
+Date:   Mon Feb 26 15:26:24 2024 +0000
+
+    add new practical exercise - Leap to w6
+
+[33mcommit 8eba6930f4380ebf607e4d6e6dd85c5cbf943811[m
+Author: =DocMilo <docmilo@users.noreply.github.com>
+Date:   Sun Feb 25 12:46:13 2024 +0000
+
+    add additional demos and practical exercises for week 7.
+    
+    The commit adds additional demos for data conversion, pass by reference and to strings. Additional Booking practical exercise for week 7 also added.
+
+[33mcommit 16ea847f4a1b913b1ee9fea424288c1739f64e91[m
+Author: =DocMilo <docmilo@users.noreply.github.com>
+Date:   Wed Feb 21 12:39:39 2024 +0000
+
+    add new week 6 exercise
+    
+    add new week 6 exercise annalys infiltration and test code. Updated readme.md for the exercises.
+
+[33mcommit a48e10e65d1f8667ebc3b079b0ba56b43d5be83f[m
+Author: =DocMilo <docmilo@users.noreply.github.com>
+Date:   Wed Feb 21 10:53:36 2024 +0000
+
+    update week 6 practical code
+
+[33mcommit 5244b87bdd3f4c59cc95e22ccd0a705cf453dfbe[m
+Author: =DocMilo <docmilo@users.noreply.github.com>
+Date:   Tue Feb 13 08:58:36 2024 +0000
+
+    update delivery sequence
+    
+    Moved week 7 on engineering best practices forward to week five. Minor changes to some readme files.
+
+[33mcommit 6bd5d9328c664eea2fc21a0dfa96327c5a0eb469[m
+Author: =DocMilo <docmilo@users.noreply.github.com>
+Date:   Fri Feb 9 12:13:10 2024 +0000
+
+    add new demos for weeks 5 and 6
+
+[33mcommit d637f7923ece0462242c5a42bac92c6ec99ed7f3[m
+Author: Shane <docmilo@users.noreply.github.com>
+Date:   Sun Mar 19 15:16:16 2023 +0000
+
+    add starter code for week 9
+
+[33mcommit 464acbbe366223232830930831a923b803a84949[m
+Author: Shane <docmilo@users.noreply.github.com>
+Date:   Sun Mar 12 14:32:20 2023 +0000
+
+    add sample code for the lecture slide deck and practical exercise
+
+[33mcommit 16998d950a10039f8783bf725f3b1303f7ba6d1c[m
+Author: Shane <docmilo@users.noreply.github.com>
+Date:   Sun Mar 5 15:59:20 2023 +0000
+
+    add example code for week 7 practical exercise
+    
+    The commit adds visual studio C# and IntelliJ Java projects to illustrate how functional code can still be poorly written.
+
+[33mcommit 1af15dfe834027e95e998ca0ff723d53f5361231[m
+Author: Shane <docmilo@users.noreply.github.com>
+Date:   Sun Feb 26 15:07:13 2023 +0000
+
+    Add code samples and practical starter code for week 6
+
+[33mcommit 07ff5594c02cbac003d447ee2321d1c40d4edf5a[m
+Author: Shane <docmilo@users.noreply.github.com>
+Date:   Sun Feb 19 20:17:24 2023 +0000
+
+    Add sample code for week 5 slide deck
+
+[33mcommit 1f299c96e4bd86b2efeea6c927960c27ff815eea[m
+Author: DocMilo <shane.wilson@lyit.ie>
+Date:   Mon Feb 13 09:39:18 2023 +0000
+
+    Add Enigma skeleton code for week 4 practical
+
+[33mcommit 66df111394164f8dcdb5c41d4bf2a7965e4d9fdd[m
+Merge: 66896fe 76acc62
+Author: Shane <docmilo@users.noreply.github.com>
+Date:   Mon Feb 6 15:37:07 2023 +0000
+
+    Merge remote-tracking branch 'origin/main' into main
+
+[33mcommit 66896fe641a4ca1f360a921c66ce8493777525bb[m
+Merge: cb1aecb 9f4339d
+Author: Shane <docmilo@users.noreply.github.com>
+Date:   Mon Feb 6 15:36:22 2023 +0000
+
+    Merge remote-tracking branch 'origin/main' into main
+
+[33mcommit 76acc62e342aa6bccc29e6e0688ceee9d4d949df[m
+Merge: cb1aecb 9f4339d
+Author: Shane <docmilo@users.noreply.github.com>
+Date:   Mon Feb 6 15:36:22 2023 +0000
+
+    Merge remote-tracking branch 'origin/main' into main
+
+[33mcommit cb1aecb82423093f1d2e0b248a899417aab99cae[m
+Author: Shane <docmilo@users.noreply.github.com>
+Date:   Mon Feb 6 15:30:54 2023 +0000
+
+    add starter code for week 3 lab on branching and remotes
+
+[33mcommit 9f4339d3959131fec58fc07a85335cec97cb0ab7[m
+Author: Shane <docmilo@users.noreply.github.com>
+Date:   Mon Feb 6 15:30:54 2023 +0000
+
+    add starter code for week 3 lab on branching and remotes
+
+[33mcommit 01f60eb1c931c4ad6b38b7b768133b4a183ed44b[m
+Author: Shane <docmilo@users.noreply.github.com>
+Date:   Sun Jan 22 15:08:24 2023 +0000
+
+    Add demo visual studio solution for week 1
+
+[33mcommit 54de6cd65270bf94c3bca81edfce62fd59b7102f[m
+Author: Dr. Shane Wilson <Docmilo@users.noreply.github.com>
+Date:   Sat Jan 21 10:44:09 2023 +0000
+
+    Initial commit

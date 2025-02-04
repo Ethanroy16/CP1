@@ -38,9 +38,14 @@ public class Gambler {
       // Game logic
       while (pot > 0 && pot < goal) {
         // TO DO - Implement game logic
-        System.out.println("Simulating a game ");
-        System.out.println("You lose €5");
-        System.out.println("You lost, Goodbye");
+        if(simulateThrow() > 6)
+        {
+          pot++;
+        }
+        else if(simulateThrow() < 6)
+        {
+          pot--;
+        }
       }
       if (pot == goal) {
         gameWins++;
